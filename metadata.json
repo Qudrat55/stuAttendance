@@ -1,0 +1,7 @@
+{
+  "name": "EduScan Pro",
+  "description": "Advanced School Management System with QR Attendance and AI Analytics",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
